@@ -1,2 +1,2 @@
-# The-last-ship
-A ship Game with weapons
+# p5.play-boilerplate
+Boiler plate for p5.play
